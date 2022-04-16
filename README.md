@@ -7,14 +7,14 @@
 
 - 💬 Ask me about **anything on tech.**
 
-- 📫 You can reach me on **kaushik.lakhani123@gmail.com**
+- 📫 You can reach me on **rahuldevpradhan99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/RahuldevPradha9" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/twitter.png" alt="_k_a_a_l" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/rahul-dev-pradhan-95245b1b3" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/linkedin.png" alt="rahul-dev-pradhan-95245b1b3" height="40" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/people/Rahul Dev Pradhan /100008666505564/" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/facebook.png" alt="https://www.facebook.com/people/kaushik-lakhani/100008225834590/" height="40" width="40" /></a>
-<a href="https://instagram.com/__k.a.a.l.__" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/instagram.png" alt="__k.a.a.l.__" height="40" width="40" /></a>
+<a href="https://instagram.com/pradhanrd09" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/instagram.png" alt="__k.a.a.l.__" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
