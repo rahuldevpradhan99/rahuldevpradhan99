@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **UI/UX Designing**
 
-- 💬 Ask me about **anything on tech.**
+- 💬 Ask me about **anything on UI.**
 
 - 📫 You can reach me on **rahuldevpradhan99@gmail.com**
 
