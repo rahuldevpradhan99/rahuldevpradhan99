@@ -1,22 +1,139 @@
-<h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">, I'm Rahul Dev Pradhan</h1>
-<h3 align="center">Currently persuading my B.Tech in CSIT Branch at ITER, SOA University🏫🎓 !</h3>
+# Hi there! 👋 I'm an Associate Product Engineer
 
-- 🔭 I’m currently working on **myself, obviously.**
+## 🚀 About Me
 
-- 🌱 I’m currently learning **UI/UX Designing**
+I'm a passionate **Associate Product Engineer** at **Cloud Solutions Private Limited**, where I specialize in building scalable cloud-based applications and full-stack solutions. I love turning complex problems into elegant, user-friendly applications.
 
-- 💬 Ask me about **anything on UI.**
+## 💼 Professional Experience
 
-- 📫 You can reach me on **rahuldevpradhan99@gmail.com**
+**Current Role**: Associate Product Engineer  
+**Company**: Inovaare Cloud Solutions Private Limited  
+**Focus**: Cloud Solutions, Full-Stack Development, and Modern Web Applications
 
+### What I Do
+- 🌐 Develop cloud-native applications and solutions
+- 🔧 Build end-to-end web applications using modern tech stacks
+- 📊 Design and implement scalable backend architectures
+- 🎨 Create intuitive user interfaces and experiences
+- 🚀 Deploy and maintain applications in cloud environments
 
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Frontend Technologies
+```javascript
+const frontend = {
+    framework: "Angular",
+    languages: ["JavaScript", "TypeScript"],
+    styling: ["HTML5", "CSS3", "SCSS"],
+    tools: ["Angular CLI", "RxJS", "Angular Material"]
+};
+```
 
-<h3 align="left">My GitHub stats:</h3>
+### Backend Technologies
+```java
+// Backend Stack
+- Java (Spring Boot, Spring Framework)
+- Node.js (Runtime Environment)
+- Express.js (Web Framework)
+```
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rahuldevpradhan99&theme=highcontrast&show_icons=true" alt="kaal-coder" />
+### Database & Storage
+```mongodb
+// Database
+- MongoDB (NoSQL Database)
+- Mongoose (ODM)
+- Database Design & Optimization
+```
 
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=rahuldevpradhan99&theme=highcontrast&hide_border=false" alt ="kaal-coder" />
+### Cloud & DevOps
+```yaml
+cloud_platforms:
+  - AWS
+  - Azure
+  - Google Cloud Platform
   
+tools:
+  - Docker
+  - CI/CD Pipelines
+  - RESTful APIs
+  - Microservices Architecture
+```
+
+## 🌟 Skills & Expertise
+
+### Technical Skills
+- **Full-Stack Development** - End-to-end application development
+- **Cloud Architecture** - Designing scalable cloud solutions
+- **API Development** - RESTful services and microservices
+- **Database Management** - NoSQL and relational databases
+- **Version Control** - Git, GitHub, GitLab
+- **Agile Methodologies** - Scrum, Kanban
+
+### Problem-Solving Approach
+- 🔍 **Analysis** - Understanding complex requirements
+- 🎯 **Planning** - Architecting scalable solutions
+- 💻 **Implementation** - Writing clean, efficient code
+- 🧪 **Testing** - Ensuring robust and reliable applications
+- 🚀 **Deployment** - Cloud-based deployment strategies
+
+
+## 🎯 Current Focus
+
+- 🌐 **Cloud-Native Development** - Building scalable cloud solutions
+- 📱 **Modern Web Technologies** - Angular, Node.js, and latest frameworks
+- 🔄 **DevOps Practices** - Implementing efficient CI/CD pipelines
+- 📊 **Performance Optimization** - Creating high-performance applications
+
+## 🌱 Learning & Growth
+
+Currently exploring:
+- Advanced Angular features and patterns
+- Cloud architecture best practices
+- Microservices design patterns
+- DevOps and containerization
+- AI/ML integration in web applications
+
+
+## 🤝 Let's Connect!
+
+I'm always interested in:
+- 💬 Discussing new technologies and best practices
+- 🤝 Collaborating on interesting projects
+- 📚 Sharing knowledge and learning from others
+- 🌟 Contributing to the developer community
+
+### Areas of Interest
+- Cloud Computing & Architecture
+- Full-Stack Web Development
+- Modern JavaScript Frameworks
+- Database Design & Optimization
+- DevOps & CI/CD
+- API Design & Development
+
+## 🎨 Fun Facts
+
+- 🎯 I enjoy turning complex problems into simple, elegant solutions
+- 🌱 Always learning new technologies and staying updated with industry trends
+- 🎨 I believe in writing clean, maintainable code that others can easily understand
+- 🚀 Passionate about creating applications that make a real difference
+- ☕ Coffee enthusiast - best code is written with good coffee!
+
+## 💡 Philosophy
+
+> "Good code is not just about solving problems; it's about solving them in a way that's maintainable, scalable, and elegant."
+
+I believe in:
+- **Clean Code** - Writing code that's easy to read and maintain
+- **Continuous Learning** - Staying updated with evolving technologies
+- **Team Collaboration** - Working together to achieve common goals
+- **User-Centric Design** - Building applications that users love
+- **Quality First** - Ensuring robust, tested, and reliable solutions
+
+---
+
+**Currently Building**: Cloud solutions that scale and perform  
+**Always Learning**: New technologies and best practices  
+**Company**: Cloud Solutions Private Limited  
+**Role**: Associate Product Engineer  
+
+*"Passionate about creating digital solutions that make a difference"* ✨
